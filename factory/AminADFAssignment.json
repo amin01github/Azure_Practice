@@ -1,0 +1,9 @@
+{
+	"name": "AminADFAssignment",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2a86b5c-ef85-433e-a0bc-990b4d4c5973",
+		"tenantId": "b7693cf7-42d5-4964-8310-2ec50fd0339e"
+	}
+}
