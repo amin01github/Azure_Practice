@@ -1,0 +1,12 @@
+{
+	"name": "Landing_CSV_LS",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://amin1802storageaccount.dfs.core.windows.net/",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDMyMDUyRDEzLTEyM0QtNEU1My04REZCLUU4Qjg5ODZEMkUzQV84NjcxMzgxOC0yMTE1LTQ4NTYtOGQ3Ni1kMTQ4MTBkMmFmN2IiDQp9"
+		}
+	}
+}
